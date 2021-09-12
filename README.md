@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Robert, or Robo for short. I'm fairly new to the whole open source/github scene so please be patient with me.
 
+I have a website the I update occasionally with things i've worked on. Currently it's showcasing a few of my non-github related projects, you can take a look [HERE!](https://robertzarmstrong.com/portfolio/)
 <!--
 **RoboRobob/RoboRobob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
